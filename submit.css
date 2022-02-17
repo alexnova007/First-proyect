@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+
+a{
+    color: rgb(235, 72, 72);
+    font-size: 30px;
+}
+
+.a12{
+    float: inline-end;
+}

@@ -1,0 +1,37 @@
+.card > img {
+   max-width: 100%; 
+
+}
+
+body{
+    background-color: #e5e9f1;
+}
+
+a{
+    color: white;
+}
+
+
+.col-lg-6 {
+    color: white;
+}
+
+
+.lead text{
+    color: white;
+}
+
+.text-center{
+    color: white;
+}
+.lead .text-muted{
+    color: white;
+}
+
+.p{
+    color: white;
+}
+
+.lead, .text-muted{
+    color: white;
+}

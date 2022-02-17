@@ -1,0 +1,29 @@
+.text{
+    color: #ffffff;
+    text-align: center;
+    font-size: 160%;
+    float: none;
+}
+
+body{
+    background-color:#354564
+}
+
+.material-icons{
+    width: 100px;
+    height: 100px;
+    line-height: 10px;
+}
+
+li,a{
+    color: #000000;
+}
+
+.button{
+    width: 30px;
+    height: 30px;
+}
+
+.iframe{
+    float: inline-end;
+}
